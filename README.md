@@ -19,7 +19,7 @@ S<sup>2</sup>TLD (1,080 * 1,920)
 * [OneDrive](https://1drv.ms/u/s!Akhz5L4oxpUGiX2BR8RRl4B-XJ4I?e=GlYMWJ)  
 
 S<sup>2</sup>TLD (720 * 1,280)
-* [Baidu Drive (https://pan.baidu.com/s/1tIIPY2jvwaxdb1Gas6ThKw)](b3ds)        
+* [Baidu Drive (b3ds)](https://pan.baidu.com/s/1tIIPY2jvwaxdb1Gas6ThKw)   
 * [OneDrive](https://1drv.ms/u/s!Akhz5L4oxpUGiX2BR8RRl4B-XJ4I?e=33mFo0) 
 
 ## Citation
