@@ -27,9 +27,10 @@ S<sup>2</sup>TLD (720 * 1,280)
 If this is useful for your research, please consider cite.
 
 ```
-@inproceedings{yang2020scrdet++,
-    title={SCRDet++: Detection for Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing},
-    author={Yang, Xue and Yan, Junchi and Yang, Xiaokang and Liao, Wenlong and He, Tao},
+@article{yang2020scrdet++,
+    title={SCRDet++: Detecting Small, Cluttered and Rotated Objects via Instance-Level Feature Denoising and Rotation Loss Smoothing},
+    author={Yang, Xue and Yan, Junchi and Yang, Xiaokang and Tang, Jin and Liao, Wenglong and He, Tao},
+    journal={arXiv preprint arXiv:2004.13316},
     year={2020}
 }
 ```
